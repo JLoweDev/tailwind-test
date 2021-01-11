@@ -10,5 +10,23 @@
     "webpack": "^5.12.3",
     "webpack-cli": "^4.3.1",
     "webpack-dev-server": "^3.11.1"
-  }
+  },
+  "name": "tailwind-test",
+  "description": "Playing around with Tailwind CSS, installed with npm.",
+  "version": "1.0.0",
+  "main": "postcss.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JLoweDev/tailwind-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JLoweDev/tailwind-test/issues"
+  },
+  "homepage": "https://github.com/JLoweDev/tailwind-test#readme"
 }
